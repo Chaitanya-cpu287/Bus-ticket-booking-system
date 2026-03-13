@@ -20,7 +20,3 @@ A terminal-based application designed for Road Transport Corporations to automat
 - `receipt.txt`: The most recently generated passenger ticket.
 - `ticket_history.csv`: A permanent log of all tickets sold (ready for data analysis).
 
-## 🚀 Getting Started
-1. **Compile:**
-   ```bash
-   g++ main.cpp -o SmartRTC
